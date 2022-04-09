@@ -10,5 +10,5 @@ compile_commands.json
 CTestTestfile.cmake
 _deps
 
-build-Project_Data_Structures-Desktop_Qt_5_12_7_MinGW_64_bit-Debug/
+build-Project/
 *.pdf
