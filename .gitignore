@@ -1,3 +1,5 @@
+build-Project/
+*.pdf
 CMakeLists.txt.user
 CMakeCache.txt
 CMakeFiles
@@ -10,5 +12,4 @@ compile_commands.json
 CTestTestfile.cmake
 _deps
 
-build-Project/
-File.pdf
+
